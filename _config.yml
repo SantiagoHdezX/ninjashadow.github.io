@@ -1,0 +1,13 @@
+# Site settings
+title: Ninjashadow blog
+email: sslkeyregit@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Este es un blog personal dedicado a la programacion y la informatica.
+  No sere un experto pero hago el intento.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ninjashadow.github.io" # the base hostname & protocol for your site
+twitter_username: ninjashadow203
+github_username:  ninjashadow
+
+# Build settings
+markdown: kramdown
